@@ -46,11 +46,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg4268&layout=compact&theme=radical)
 
 ---
-
-## 📫 Connect with Me
-
-- 📧 Email: gjnuter@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gregnuter/)  
-
----
-
