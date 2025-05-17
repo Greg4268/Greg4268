@@ -43,6 +43,6 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg4268&layout=compact&theme=radical)
-
+![Greg4268's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg4268&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+![Greg4268's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Greg4268&theme=gotham&hide_border=false)
 ---
