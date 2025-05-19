@@ -27,20 +27,6 @@
 
 ---
 
-## 👥 Leadership & Campus Involvement
-
-**Lambda Chi Alpha, Alpha Phi-Zeta Chapter**  
-- 📣 Alumni Chair: Strengthened alumni engagement through events and communications  
-- 📚 Academic Chair: Boosted chapter academic performance with study systems and guidance
-
-**Clubs & Honors:**  
-- AIMS (Alabama Information Management Society)  
-- Order of Alpha Honor Society  
-- President’s List & Dean’s List  
-- Blue Beacon Foundation
-
----
-
 ## 📊 GitHub Stats
 
 ![Greg4268's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg4268&theme=gotham&show_icons=true&hide_border=false&layout=compact)
