@@ -11,12 +11,15 @@
 ## 🛠️ Experience
 
 ### Software Developer Intern @ Wi-Tronix (Summer 2025)
-
+- Developed and extended APIs by adding new endpoints to support enhanced application functionality
+- Designed and implemented new APIs to deliver features aligned with evolving customer requirements 
+- Optimized existing microservices to eliminate redundant data transmission during RabbitMQ publishing 
+- Diagnosed and resolved bugs across service’s web portal and underlying business logic, improving stability and user experience 
 ### Software Developer Intern @ Wi-Tronix (Summer 2024)
-- Contributed to full SDLC including design, implementation, testing, and debugging
-- Collaborated on feature enhancements improving platform functionality and user experience
-- Participated in agile SAFe ceremonies and standups
-- Addressed and documented bugs with solutions
+- Refactored legacy code into modular, loosely coupled microservices to improve scalability and maintainability, with a focus on locomotive health monitoring 
+- Designed and implemented SQL stored procedures and new database tables to support evolving customer requirements and platform feature enhancements 
+- Identified and resolved bugs within the web portal interface
+- Contributed to the design, development, testing, and deployment phases of the software development lifecycle, supporting the delivery of production-ready features
 
 ---
 
