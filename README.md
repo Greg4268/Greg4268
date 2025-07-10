@@ -13,7 +13,7 @@
 ### Software Developer Intern @ Wi-Tronix (Summer 2025)
 - Developed and extended APIs by adding new endpoints to support enhanced application functionality
 - Designed and implemented new APIs to deliver features aligned with evolving customer requirements 
-- Optimized existing microservices to eliminate redundant data transmission during RabbitMQ publishing 
+- Optimized existing microservices to significantly reduce redundant data transmission during RabbitMQ publishing 
 - Diagnosed and resolved bugs across service’s web portal and underlying business logic, improving stability and user experience 
 ### Software Developer Intern @ Wi-Tronix (Summer 2024)
 - Refactored legacy code into modular, loosely coupled microservices to improve scalability and maintainability, with a focus on locomotive health monitoring 
