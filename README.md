@@ -1,6 +1,6 @@
 # Hi, I'm Greg 👋
 
-🎓 Master’s and Bachelor’s Candidate in Management Information Systems at The University of Alabama  
+🎓 Master’s and Bachelor’s Candidate in Management Information Systems  
 🔍 Passionate about software development, problem-solving, and continuous learning  
 🚀 Currently learning new languages and skills through personal projects
 
@@ -13,17 +13,10 @@
 ### Software Developer Intern @ Wi-Tronix (Summer 2025)
 - Developed and extended APIs by adding new endpoints to support enhanced application functionality
 - Designed and implemented new APIs to deliver features aligned with evolving customer requirements 
-- Optimized existing microservices to significantly reduce redundant data transmission during RabbitMQ publishing 
+- Optimized existing microservice to significantly reduce redundant data transmission during RabbitMQ publishing 
 - Diagnosed and resolved bugs across service’s web portal and underlying business logic, improving stability and user experience 
 ### Software Developer Intern @ Wi-Tronix (Summer 2024)
 - Refactored legacy code into modular, loosely coupled microservices to improve scalability and maintainability, with a focus on locomotive health monitoring 
 - Designed and implemented SQL stored procedures and new database tables to support evolving customer requirements and platform feature enhancements 
 - Identified and resolved bugs within the web portal interface
 - Contributed to the design, development, testing, and deployment phases of the software development lifecycle, supporting the delivery of production-ready features
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Greg4268&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
